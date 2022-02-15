@@ -1,11 +1,11 @@
 export const CONFIG = {
   tries: 6, // This changes how many tries you get to finish the wordle
-  language: 'Nérþen', // This changes the display name for your language
+  language: 'Nerthen', // This changes the display name for your language
   wordLength: 5, // This sets how long each word is based on how many characters (as defined in orthography.ts) are in each word
   author: 'FelixTheManager', // Put your name here so people know who made this Wordle!
-  authorWebsite: 'https://github.com/FelixTheManager', // Put a link to your website or social media here
+  authorWebsite: '', // Put a link to your website or social media here
   wordListSource: 'My google sheets dictionary', // Describe the source material for your words here
-  wordListSourceLink: 'https://docs.google.com/spreadsheets/d/1u-bzFJfzdhTvsYAsYzyk9eOAQUvRBfrzfHzfJAHDbZc/edit?usp=sharing', // Put a link to the source material for your words here
+  wordListSourceLink: '', // Put a link to the source material for your words here
   //
   // THESE NEXT SETTINGS ARE FOR ADVANCED USERS
   //
