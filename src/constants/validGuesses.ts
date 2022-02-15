@@ -1,119 +1,120 @@
 import { CONFIG } from './config'
 
 export const VALIDGUESSES = [
-  'zvárt',
-  'venus',
-  'stoon',
-  'vrach',
-  'kleis',
-  'plank',
-  'vrouk',
-  'draak',
-  'vedág',
-  'krägg',
-  'spérg',
-  'meech',
-  'xenté',
-  'antér',
-  'vroux',
-  'exelt',
-  'gläis',
-  'plees',
-  'sélze',
-  'voror',
-  'goodé',
-  'birch',
-  'narðé',
-  'tenné',
-  'söben',
-  'mijst',
-  'kraux',
-  'stijl',
-  'spérg',
-  'katte',
-  'lijme',
-  'graäs',
-  'tzönn',
-  'tzeie',
-  'réeel',
-  'speiþ',
-  'tzumm',
-  'úhvín',
-  'vijsé',
-  'plant',
-  'niuuv',
-  'äxter',
-  'speix',
-  'bákij',
-  'xälte',
-  'víkke',
-  'plutó',
-  'kreek',
-  'féiðe',
-  'kreex',
-  'lóuse',
-  'emoji',
-  'zellk',
-  'äpvel',
-  'baner',
-  'mäder',
-  'oräns',
-  'leiðe',
-  'céres',
-  'alsoo',
-  'sóuðe',
-  'brous',
-  'kluus',
-  'rijse',
-  'jedág',
-  'aufer',
-  'vlaas',
-  'zemme',
-  'treik',
-  'lunér',
-  'staal',
-  'klubé',
-  'verxt',
-  'luist',
-  'hvéir',
-  'soubt',
-  'péise',
-  'eiräi',
-  'sovén',
-  'nékte',
-  'groov',
-  'eukte',
-  'neðer',
-  'treuf',
-  'satér',
-  'krauk',
-  'tanze',
-  'speel',
-  'spoon',
-  'bakke',
-  'dänch',
-  'kvart',
-  'speik',
-  'kleus',
-  'klank',
-  'speik',
-  'sjeld',
-  'buuch',
-  'höntz',
-  'télez',
-  'vooid',
-  'kénzt',
-  'hóver',
-  'pleus',
-  'traux',
-  'ouvér',
-  'vantz',
-  'viðér',
-  'hound',
-  'leern',
-  'seudé',
-  'augst',
-  'jovér',
+  'alsoo'
+,'antér'
+,'aufer'
+,'augst'
+,'bakke'
+,'baner'
+,'birch'
+,'brous'
+,'buuch'
+,'bákij'
+,'céres'
+,'draak'
+,'dänch'
+,'eiräi'
+,'emoji'
+,'eukte'
+,'exelt'
+,'féiðe'
+,'gläis'
+,'goodé'
+,'graäs'
+,'groov'
+,'hound'
+,'hvéir'
+,'hóver'
+,'höntz'
+,'jedág'
+,'jovér'
+,'katte'
+,'klank'
+,'kleis'
+,'kleus'
+,'klubé'
+,'kluus'
+,'krauk'
+,'kraux'
+,'kreek'
+,'kreex'
+,'krägg'
+,'kvart'
+,'kénzt'
+,'leern'
+,'leiðe'
+,'lijme'
+,'luist'
+,'lunér'
+,'lóuse'
+,'meech'
+,'mijst'
+,'mäder'
+,'narðé'
+,'neðer'
+,'niuuv'
+,'nékte'
+,'oräns'
+,'ouvér'
+,'plank'
+,'plant'
+,'plees'
+,'pleus'
+,'plutó'
+,'péise'
+,'rijse'
+,'réeel'
+,'satér'
+,'seudé'
+,'sjeld'
+,'soubt'
+,'sovén'
+,'speel'
+,'speik'
+,'speik'
+,'speix'
+,'speiþ'
+,'spoon'
+,'spérg'
+,'spérg'
+,'staal'
+,'stijl'
+,'stoon'
+,'sélze'
+,'sóuðe'
+,'söben'
+,'tanze'
+,'tenné'
+,'traux'
+,'treik'
+,'treuf'
+,'tzeie'
+,'tzumm'
+,'tzönn'
+,'télez'
+,'vantz'
+,'vedág'
+,'venus'
+,'verxt'
+,'vijsé'
+,'viðér'
+,'vlaas'
+,'vooid'
+,'voror'
+,'vrach'
+,'vrouk'
+,'vroux'
+,'víkke'
+,'xenté'
+,'xälte'
+,'zellk'
+,'zemme'
+,'zvárt'
+,'äpvel'
+,'äxter'
+,'úhvín'
+
 ]
 
 if (CONFIG.normalization) {
