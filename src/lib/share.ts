@@ -27,7 +27,7 @@ export const generateEmojiGrid = (guesses: string[][]) => {
             case 'present':
               return '🟨'
             default:
-              return '⬜'
+              return '⬛'
           }
         })
         .join('')
